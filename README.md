@@ -1,46 +1,9 @@
-<<<<<<< HEAD
-# A starter project for React/Redux
+# pickUpColour  
+I want to create an app that stores beautiful scenes of films I love and allows me to create colour palettes from it.   
 
-> A minimalistic React/Redux starter project
-
-To use:
-
-* Fork this repo
-* Rename your repo according to the app you're building
-
-```sh
-git clone https://github.com/[your-org]/[your-app].git
-cd [your-app] && npm install
-```
-
-This is the structure of this boilerplate:
-
-```sh
-.
-├── client
-│   ├── actions
-│   │   └── index.js
-│   ├── components
-│   │   ├── App.jsx
-│   │   └── Word.jsx
-│   ├── containers
-│   │   ├── AddWord.jsx
-│   │   └── Words.js
-│   ├── reducers
-│   │   ├── index.js
-│   │   └── words.js
-│   └── index.js
-├── public
-│   ├── index.html
-│   └── main.css
-├── server
-│   ├── index.js
-│   └── server.js
-├── .gitignore
-├── package.json
-├── README.md
-└── webpack.config.js
-```
-=======
-# pickUpColour
->>>>>>> refs/remotes/origin/master
+**User Story**
+- Step 1 
+ - [ ] As a user, I would like to upload images and store them on the site. *This requires an user account*
+ - [ ] As a user, I would like to be able to pick out colours from the image I uploaded to create a colour palette. 
+ 
+ ## Technologies required for this app
