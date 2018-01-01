@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A starter project for React/Redux
 
 > A minimalistic React/Redux starter project
@@ -40,3 +41,6 @@ This is the structure of this boilerplate:
 ├── README.md
 └── webpack.config.js
 ```
+=======
+# pickUpColour
+>>>>>>> refs/remotes/origin/master
