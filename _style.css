@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(54, 126, 126);
+  color: black;
+}
+
+/* FLEX */
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-stage {
+  background-color: white;
+  margin: auto;
+  padding: 20px;
+  width: 750px;
+}
+
+.image-loader {
+  border: 1px solid black;
+  width: 600px;
+  height: 400px;
+}
+
+.colour-palette {
+  border: 1px solid black;
+  width: 100px;
+  height: 400px;
+}
